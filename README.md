@@ -32,4 +32,4 @@
 
 <p><img align="left" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshant130&show_icons=true&locale=en&layout=compact" alt="dikshant130" /></p>
 
-<p>&nbsp;<img width = "400" height = "250" align="right" src="https://github-readme-stats.vercel.app/api?username=dikshant130&show_icons=true&locale=en" alt="dikshant130" /></p>
+<p>&nbsp;<img width = "400"  align="right" src="https://github-readme-stats.vercel.app/api?username=dikshant130&show_icons=true&locale=en" alt="dikshant130" /></p>
